@@ -1,0 +1,2 @@
+# Data-Communication-CDMA
+C Program to implement CDMA for four stations 1, 2, 3 and 4 connected to the same channel.  The code assigned to the first station is [+1 +1 +1 +1 ], the code assigned to the second station is  [+1 -1 +1 -1 ], the code assigned to the third station is  [+1 +1 -1 -1 ], the code assigned to the fourth  station is  [+1 -1 -1 +1 ]. Send data through one channel and receive data through the other channel. 
